@@ -1,6 +1,6 @@
 # Chat - Ejercicio sencillo WebFlux con Hilla, Lit y SpringBoot
 
-Proyecto de prueba de ejercicio con Hilla y SpringBoot WebFlux reactivo visto en tutorial
+Proyecto de prueba de ejercicio con Hilla y SpringBoot WebFlux reactivo visto en tutorial https://dzone.com/articles/tutorial-build-a-full-stack-reactive-chat-app-with
 
 ## Running the application
 
