@@ -1,7 +1,6 @@
-# Custom project from Hilla
+# Chat - Ejercicio sencillo WebFlux con Hilla, Lit y SpringBoot
 
-This project can be used as a starting point to create your own Hilla application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+Proyecto de prueba de ejercicio con Hilla y SpringBoot WebFlux reactivo visto en tutorial
 
 ## Running the application
 
